@@ -1,13 +1,16 @@
+/* Change the background of the entire visible page */
 body {
-    background-color: #f7a6e9; 
+    background-color: #fa52db; /* Very light grey */
+}
 
+/* Style for all paragraphs */
 p {
-    color: rgb(#5accfa);
+    color: lightblue;
     font-size: 16px;
     font-family: 'monospace', serif;
 }
-    
-h1 {
-    text-align: center;  */
-    padding: 10px; 
 
+/* Style for the main heading */
+h1 {
+    text-align: center; /* Puts the heading in the middle */
+  
